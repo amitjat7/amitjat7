@@ -1,15 +1,11 @@
-<p <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amit%20Jat&fontSize=42&fontColor=ffffff&color=ff69b4" />
-</p>
-<h3 align="center">Full Stack Developer 🚀</h3>
-
 <p align="center">
-Node.js • Express.js • MongoDB • JavaScript • WebRTC • Socket.IO • REST APIs • Git • GitHub • Cloud Deployment
-</p>
-
-<p align="center">
-Building scalable backends, real-time applications, and modern web experiences.
-</p>
-
-<p align="center">
-📩 <a href="mailto:iamitchaudhary7@gmail.com">Contact Me</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Super%20Intelligence&fontSize=45&fontColor=ffffff&animation=fadeIn&color=0:ff69b4,100:8a2be2" />
+</p><h3 align="center">🚀 Full Stack Developer | Data Science</h3><p align="center">
+Node.js • Express.js • MongoDB • JavaScript • WebRTC • Data Science • API Integration • SaaS
+</p><p align="center">
+Building Real-Time Apps, Scalable Backends & Data-Driven Solutions.
+</p><p align="center">
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/📩%20Contact%20Me-ff69b4?style=for-the-badge" />
+</a>
 </p>
