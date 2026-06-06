@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Super%20Intelligence&fontSize=42&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amit%20Jat&fontSize=42&animation=fadeIn&fontAlignY=38&color=ff69b4,ff1493" />
 </p>
-
 <h3 align="center">Full Stack Developer 🚀</h3>
 
 <p align="center">
