@@ -5,7 +5,7 @@ Node.js • Express.js • MongoDB • JavaScript • WebRTC • Data Science �
 </p><p align="center">
 Building Real-Time Apps, Scalable Backends & Data-Driven Solutions.
 </p><p align="center">
-<a href="mailto:your-email@example.com">
+<a href="mailto:iamitchaudhary7@gmail.com">
 <img src="https://img.shields.io/badge/📩%20Contact%20Me-ff69b4?style=for-the-badge" />
 </a>
 </p>
